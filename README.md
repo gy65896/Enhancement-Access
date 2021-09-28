@@ -15,4 +15,7 @@ In the first step, a hybrid regularized variational model is proposed to refine 
 ![Fig2](https://user-images.githubusercontent.com/48637474/135098754-9353c72c-02c2-4c83-b06f-b9b3979d5fee.jpg)
 ![Fig3](https://user-images.githubusercontent.com/48637474/135105375-a44444fa-159d-4bc7-8b10-0aa7ec377be6.jpg)
 
-
+## Testing
+* Put the low-light image in the "image" folder
+* Run "main.py". 
+* The enhancement result will be saved in the "Result" folder.
