@@ -16,7 +16,7 @@ In the first step, a hybrid regularized variational model is proposed to refine 
 **FIGURE 2. Flowchart of our proposed method for enhancing low-light maritime images.**
 
 ![Fig3](https://user-images.githubusercontent.com/48637474/135105375-a44444fa-159d-4bc7-8b10-0aa7ec377be6.jpg)
-<center>诶嘿</center>
+**FIGURE 4. The architecture of blind denoising network used in this work.**
 
 ## Testing
 * Put the low-light image in the "image" folder
