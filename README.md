@@ -40,4 +40,4 @@ Y. Guo, Y. Lu, R. W. Liu, M. Yang, and K. T. Chui, ``Low-light image enhancement
 }
 ```
 
-### If you have any questions, please get in touch with me (yuguo@whut.edu.cn).
+#### If you have any questions, please get in touch with me (yuguo@whut.edu.cn).
