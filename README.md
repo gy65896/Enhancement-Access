@@ -21,5 +21,6 @@ In the first step, a hybrid regularized variational model is proposed to refine 
 * The enhancement result will be saved in the "Result" folder.
 
 
+    
     \bibitem{guo2020low} 
     Y. Guo, Y. Lu, R. W. Liu, M. Yang, and K. T. Chui, ``Low-light image enhancement with regularized illumination optimization and deep noise suppression,'' \emph{IEEE Access}, vol. 8, pp. 145297-145315, Aug. 2020.
