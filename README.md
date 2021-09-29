@@ -6,6 +6,7 @@
 * __Python__ == 3.7
 * __Matlab__ == 2019a
 * __Pytorch__ == 1.1.0
+* __MATLAB Engine API for python__
 
 ## 2. Abstract
 Maritime images captured under low-light imaging condition easily suffer from low visibility and unexpected noise, leading to negative effects on maritime traffic supervision and management. To promote imaging performance, it is necessary to restore the important visual information from degraded low-light images. In this article, we propose to enhance the low-light images through regularized illumination optimization and deep noise suppression. In particular, a hybrid regularized variational model, which combines L0-norm gradient sparsity prior with structure-aware regularization, is presented to refine the coarse illumination map originally estimated using Max-RGB. The adaptive gamma correction method is then introduced to adjust the refined illumination map. Based on the assumption of Retinex theory, a guided filter-based detail boosting method is introduced to optimize the reflection map. The adjusted illumination and optimized reflection maps are finally combined to generate the enhanced maritime images. To suppress the effect of unwanted noise on imaging performance, a deep learning-based blind denoising framework is further introduced to promote the visual quality of enhanced image. In particular, this framework is composed of two sub-networks, i.e., E-Net and D-Net adopted for noise level estimation and non-blind noise reduction, respectively. The main benefit of our image enhancement method is that it takes full advantage of the regularized illumination optimization and deep blind denoising. Comprehensive experiments have been conducted on both synthetic and realistic maritime images to compare our proposed method with several state-of-the-art imaging methods. Experimental results have illustrated its superior performance in terms of both quantitative and qualitative evaluations.
@@ -38,3 +39,5 @@ Y. Guo, Y. Lu, R. W. Liu, M. Yang, and K. T. Chui, ``Low-light image enhancement
   year={2020}
 }
 ```
+
+### If you have any questions, please get in touch with me (yuguo@whut.edu.cn).
