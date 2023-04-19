@@ -35,7 +35,7 @@ Y. Guo, Y. Lu, R. W. Liu, M. Yang, and K. T. Chui, ``Low-light image enhancement
 @article{guo2020low,
   title={Low-Light Maritime Image Enhancement with Regularized Illumination Optimization and Deep Noise Suppression},
   author={Guo, Yu and Lu, Yuxu and Liu, Ryan Wen and Yang, Meifang and Chui, Kwok Tai},
-  journal={arXiv preprint arXiv:2008.03765},
+  journal={IEEE Access},
   year={2020}
 }
 ```
