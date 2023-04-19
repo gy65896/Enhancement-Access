@@ -1,6 +1,6 @@
 # [IEEE Access 2020] Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression 
 
->**Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression [[paper](https://ieeexplore.ieee.org/abstract/document/9163095/)]**<br> Yu Guo, Yuxu Lu, [Ryan Wen Liu<sup>*</sup>](http://mipc.whut.edu.cn/index.html), Meifang Yang, Kwok Tai Chui<sup>*</sup> (* indicates corresponding author) <br>
+>**Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression [[paper](https://ieeexplore.ieee.org/abstract/document/9163095/)]**<br> Yu Guo, Yuxu Lu, [Ryan Wen Liu<sup>*</sup>](http://mipc.whut.edu.cn/index.html), Meifang Yang, Kwok Tai Chui <sup>*</sup> (* indicates corresponding author) <br>
 >IEEE Access
 
 ## Requirement ##
