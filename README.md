@@ -1,4 +1,4 @@
-# <p align=center> [IEEE Access 2020] Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression</p>
+# <p align=center> [Access 2020] Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression</p>
 
 <div align="center">
  
@@ -10,7 +10,7 @@
 >**Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression**<br>
 [Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN)<sup>†</sup>, [Yuxu Lu]((https://scholar.google.com.hk/citations?user=XXge2_0AAAAJ&hl=zh-CN))<sup>†</sup>, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, Meifang Yang, Kwok Tai Chui*<sup>* </sup> <br>
 († Co-first Author, * Corresponding Author)<br>
->European Conference on Computer Vision
+>IEEE Access
 
 > **Abstract:** *Maritime images captured under low-light imaging condition easily suffer from low visibility and unexpected noise, leading to negative effects on maritime traffic supervision and management. To promote imaging performance, it is necessary to restore the important visual information from degraded low-light images. In this article, we propose to enhance the low-light images through regularized illumination optimization and deep noise suppression. In particular, a hybrid regularized variational model, which combines L0-norm gradient sparsity prior with structure-aware regularization, is presented to refine the coarse illumination map originally estimated using Max-RGB. The adaptive gamma correction method is then introduced to adjust the refined illumination map. Based on the assumption of Retinex theory, a guided filter-based detail boosting method is introduced to optimize the reflection map. The adjusted illumination and optimized reflection maps are finally combined to generate the enhanced maritime images. To suppress the effect of unwanted noise on imaging performance, a deep learning-based blind denoising framework is further introduced to promote the visual quality of enhanced image. In particular, this framework is composed of two sub-networks, i.e., E-Net and D-Net adopted for noise level estimation and non-blind noise reduction, respectively. The main benefit of our image enhancement method is that it takes full advantage of the regularized illumination optimization and deep blind denoising. Comprehensive experiments have been conducted on both synthetic and realistic maritime images to compare our proposed method with several state-of-the-art imaging methods. Experimental results have illustrated its superior performance in terms of both quantitative and qualitative evaluations.*
 ---
