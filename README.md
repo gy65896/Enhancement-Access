@@ -8,7 +8,7 @@
 
 ---
 >**Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression**<br>
-[Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN)<sup>†</sup>, [Yuxu Lu]((https://scholar.google.com.hk/citations?user=XXge2_0AAAAJ&hl=zh-CN))<sup>†</sup>, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, Meifang Yang, Kwok Tai Chui<sup>* </sup> <br>
+[Yu Guo](https://scholar.google.com/citations?user=klYz-acAAAAJ&hl=zh-CN)<sup>†</sup>, [Yuxu Lu](https://scholar.google.com.hk/citations?user=XXge2_0AAAAJ&hl=zh-CN)<sup>†</sup>, [Ryan Wen Liu](http://mipc.whut.edu.cn/index.html)<sup>* </sup>, Meifang Yang, Kwok Tai Chui<sup>* </sup> <br>
 († Co-first Author, * Corresponding Author)<br>
 >IEEE Access
 
