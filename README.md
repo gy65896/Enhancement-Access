@@ -24,10 +24,10 @@
 ## Flowchart of Our Proposed Method
 In the first step, a hybrid regularized variational model is proposed to refine the coarse illumination map originally estimated using Max-RGB. In the second step, an adaptive gamma correction method and a guided filter-based detail boosting method are adopted to optimize the reflection map. The refined illumination and optimized reflection maps are combined to generate the final enhanced images. As a post-processing step, the blind denoising framework is introduced to reduce the unwanted noise to further improve visual image quality.
 ![Fig2](https://user-images.githubusercontent.com/48637474/135098754-9353c72c-02c2-4c83-b06f-b9b3979d5fee.jpg)
-**FIGURE 2. Flowchart of our proposed method for enhancing low-light maritime images.**
+**Flowchart of our proposed method for enhancing low-light maritime images.**
 
 ![Fig3](https://user-images.githubusercontent.com/48637474/135105375-a44444fa-159d-4bc7-8b10-0aa7ec377be6.jpg)
-**FIGURE 4. The architecture of blind denoising network used in this work.**
+**The architecture of blind denoising network used in this work.**
 
 ## Test
 * Put the low-light image in the `image` folder
