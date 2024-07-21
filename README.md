@@ -2,7 +2,7 @@
 
 <div align="center">
  
-[![Paper](https://img.shields.io/badge/OneRestore-arXiv-red.svg)](https://ieeexplore.ieee.org/abstract/document/9163095)
+[![Paper](https://img.shields.io/badge/LLIE-Paper-red.svg)](https://ieeexplore.ieee.org/abstract/document/9163095)
 
 </div>
 
