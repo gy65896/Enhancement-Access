@@ -1,4 +1,4 @@
-# <p align=center> [Access 2020] Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression</p>
+# <p align=center> [IEEE Access 2020] Low-Light Image Enhancement With Regularized Illumination Optimization and Deep Noise Suppression</p>
 
 <div align="center">
  
